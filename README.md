@@ -25,11 +25,7 @@ This tool automates:
 
 ## 📁 Excel Format Assumption
 
-| Column | Data |
-|--------|------|
-| A      | Name |
-| B      | Other Info |
-| **C**  | **Cardnumber / Registration No** |
+![Screenshot](/excel.png)
 
 - Each row represents one patron
 - Images must be embedded inside Excel cells
